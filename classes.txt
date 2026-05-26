@@ -1,0 +1,13 @@
+Diving-Side
+Golf-Swing-Back
+Golf-Swing-Front
+Golf-Swing-Side
+Kicking-Front
+Kicking-Side
+Lifting
+Riding-Horse
+Run-Side
+SkateBoarding-Front
+Swing-Bench
+Swing-SideAngle
+Walk-Front
